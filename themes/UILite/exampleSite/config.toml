@@ -1,0 +1,4 @@
+baseURL = "http://isaiicatmat.com"
+languageCode = "en-us"
+title = "Isai"
+theme = "hugo-uilite"

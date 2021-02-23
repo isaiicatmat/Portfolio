@@ -1,0 +1,15 @@
+{
+	"title" : "Services",
+	"services" : [
+		{
+			"icon" : "pencil-ruler",
+			"title" : "SOFTWARE DEVELOPMENT",
+			"description" : "Website back and front end development. Model training with Tensorflow "
+		},
+		{
+			"icon" : "pen-nib",
+			"title" : "Graphics Design",
+			"description" : "UI/UX Web design. Photo and video manipulation/editing. 3D modeling and animation"
+		}
+	]
+}
